@@ -25,7 +25,7 @@ if __name__ == "__main__":
 
         
     if(len(sys.argv) > 1):
-        print("args:" + str(len(sys.argv)))
+        #print("args:" + str(len(sys.argv)))
         arg_url = ""
         arg_size = ""
         for args in sys.argv:
