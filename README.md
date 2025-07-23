@@ -4,9 +4,8 @@
 <li>python</li>
 <li>forbes.com crypto url</li>
 <h1>Usage</h1>
-<ul>
-<li>python forbes_price.py FORBES_URL PRICE_LENGHT</li>
-</ul>
+<p>run this command in your terminal replace FORBES-URL to url crypto from forbes.com and replace PRICE_LENGHT to a number of digits you want to see price displayed</p>
+<code>python forbes_price.py FORBES_URL PRICE_LENGHT</code>
 <p>example:</p>
 <code>python forbes_price.py https://www.forbes.com/digital-assets/assets/bitcoin-btc/ 3</code>
 <p>will return the price with a lenght with 3 digits</p>
